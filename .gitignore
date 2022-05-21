@@ -1,5 +1,7 @@
 /build
 /node_modules
+.build/
 
 /bindings/rust
 /Cargo.toml
+
